@@ -11,6 +11,6 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Print("hellow world\n");
+	fmt.Print("hello world\n");
 }
 ```
